@@ -2,6 +2,10 @@
 <h3 align="center">I am a developer from Bangladesh</h3>
 
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. His focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability. Esteham continuously strives to stay ahead of industry trends, embracing new tools and techniques to deliver cutting-edge web solutions. His commitment to clean code, problem-solving, and efficient workflows has earned him recognition as a reliable and innovative developer in the tech community.</p>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" /> </p>
+<br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteham" alt="esteham" /></a> </p>
 
