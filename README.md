@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Esteham H. ZiHad Ansari</h1>
 <h3 align="center">I am a developer from Bangladesh</h3>
 
+<img align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image" style="width: 290px; height: 170px;">
+
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. His focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability. Esteham continuously strives to stay ahead of industry trends, embracing new tools and techniques to deliver cutting-edge web solutions. His commitment to clean code, problem-solving, and efficient workflows has earned him recognition as a reliable and innovative developer in the tech community.</p>
 <br>
 
@@ -11,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image" style="width: 300px; height: 180px;">
+
 
 - 🌱 I’m currently learning **PHP**
 
