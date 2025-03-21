@@ -10,12 +10,12 @@
 
 - 🌱 I’m currently learning **PHP**
 - 📫 How to reach me **eshasan1287005@gmail.com**or
-- 📄 **Need something?** Hit me up on [**LinkedIn**](https://linkedin.com/in/https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/), where you can see my professional face (I swear I have one).
+- 📄 **Need something?** Hit me up on [**LinkedIn**](https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/), where you can see my professional face (I swear I have one).
 <h3>⚡Fun fact About Me</h3>
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
+<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
 <a href="https://fb.com/https://www.facebook.com/esteham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 
 </p>
