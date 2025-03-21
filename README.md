@@ -13,13 +13,7 @@
 - 📄 **Need something?** Hit me up on [**LinkedIn**](https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/), where you can see my professional face (I swear I have one).
 <h3>⚡Fun fact About Me</h3>
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
-<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 
-</p>
-<br>
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
   
@@ -34,8 +28,13 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
+<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
+</p>
   
-<br>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
   <a hre="https://github.com/esteham">
