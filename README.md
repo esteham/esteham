@@ -8,7 +8,8 @@
 <h4 align="center">I am a developer from Bangladesh</h4>
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning ![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)
+
 - 📫 How to reach me **eshasan1287005@gmail.com**or
 - 📄 **Need something?** Hit me up on [**LinkedIn**](https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/), where you can see my professional face (I swear I have one).
 <h3>⚡Fun fact About Me</h3>
