@@ -8,7 +8,8 @@
 <h4 align="center">I am a developer from Bangladesh</h4>
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- 🌱 I’m currently learning  <span style="margin-top: 10px;">![Static Badge](https://img.shields.io/badge/jQuery-green?style=flat&logo=jQuery&labelColor=blue)</span>
+- 🌱 I’m currently learning  <span style="margin-top: 10px;">![Static Badge](https://img.shields.io/badge/wordpress-blue?style=plastic&logo=wordpress&logoColor=black)
+</span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
 - 📫 How to reach me **eshasan1287005@gmail.com** or
 - 📄 **Need something?** Hit me up on [**LinkedIn**](https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/), where you can see my professional face.
@@ -28,6 +29,7 @@
 <!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray)
 
 ![Static Badge](https://img.shields.io/badge/php-%231974b5?style=for-the-badge&logo=php&logoColor=black&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
