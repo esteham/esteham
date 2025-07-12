@@ -8,7 +8,7 @@
 <h4 align="center">I am a developer from Bangladesh</h4>
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- 🌱 I’m currently learning  <span style="margin-top: 10px;">![Static Badge](https://img.shields.io/badge/wordpress-blue?style=plastic&logo=wordpress&logoColor=black)
+- 🌱 I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/react-blue?style=plastic&logo=react&logoColor=black)
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
 - 📫 How to reach me **eshasan1287005@gmail.com** or
@@ -18,16 +18,16 @@
 
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
-  
-<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Static Badge](https://img.shields.io/badge/jQuery-skyblue?style=for-the-badge&logo=jQuery)
-
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!--![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
+
+<!--![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)-->
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/jQuery-skyblue?style=for-the-badge&logo=jQuery)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+<!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray)
 
