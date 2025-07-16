@@ -11,8 +11,11 @@
 - 🌱 I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/react-blue?style=plastic&logo=react&logoColor=black)
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
-- 📫 How to reach me **eshasan1287005@gmail.com** or
-- 📄 **Need something?** Hit me up on <a href='https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/'>[**LinkedIn**]</a>, where you can see my professional face.
+- 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
+   [*Send Mail*] 
+</a>
+ or <br>
+- 📄 Need something? Hit me up on <a href='https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/'> [*LinkedIn*] </a>, where you can see my professional face.
 <h3>⚡Fun fact About Me</h3>
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 
