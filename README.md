@@ -15,7 +15,7 @@
    [*Send Mail*] 
 </a>
  or <br>
-- 📄 Need something? Hit me up on <a href='https://www.linkedin.com/in/esteham/' target="_blank"> [*LinkedIn*] </a>, where you can see my professional face.
+- 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
 <h3>⚡Fun fact About Me</h3>
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 
