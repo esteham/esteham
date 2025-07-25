@@ -12,7 +12,7 @@
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
-- 🌐 Website <a href='xetroot.com' target='_blank'>Xetroot</><br>
+- 🌐 Website <a href='https://xetroot.com/' target='_blank'>Xetroot</a><br>
 - 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
    [*Send Mail*] 
 </a>
