@@ -48,30 +48,31 @@
 <!--Tools & Utilities-->
 <!--![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)-->
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Static Badge](https://img.shields.io/badge/hPanel-blue?style=for-the-badge&logo=hostinger&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
-![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)
+<!--![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
 <a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 </p>
-<!--
+
 🌐 Live Projects
-<!--
-| Project     | Description                    | URL                              |
-|-------------|-------------------------------|---------------------------------|
-| 🛒 Halum Shop | Ecommerce system              | [halum.mhrsifat.xyz](https://halum.mhrsifat.xyz) |
-| 🌟 Portfolio | Personal portfolio website    | [mhrsifat.xyz](https://mhrsifat.xyz)             |
-| 🌦️ Weather App | Real-time weather application | [weather.mhrsifat.xyz](https://weather.mhrsifat.xyz) |
-| 📚 Sanda      | Chatting app (PHP, JS, jQuery) | [sanda.mhrsifat.xyz](https://sanda.mhrsifat.xyz)  |
-| 📁 File Manager | Online file manager          | [cdn.mhrsifat.xyz](https://cdn.mhrsifat.xyz)      |
--->
+
+| Project       | Description                     | URL                                   |
+|---------------|---------------------------------|---------------------------------------|
+| 💼 Portfolio | Portfolio Website               | [Esteham](https://xetroot.com/)        |
+| 🛒 Xet Shop  | Ecommerce system  (PHP & MySQL) | [XetShop](https://eshop.xetroot.com/)  |
+| ✈️ Aviation  | Flight application (PHP & MySQL)| [Aviation System](https://aviation.xetroot.com/) |
+| 🧪 XetLab    | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)  |
+| 🏖️ Xetout    | Travel Blog    (Wordpress)      | [Xetout](https://xetout.xetroot.com/)  |
+
   
 <h3>📊 GitHub Stats</h3>
 <p align="center">
