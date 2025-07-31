@@ -5,6 +5,7 @@
 <img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">
 
 <h3 align="left">🚀 About Me</h3>
+<br>
 <h4 align="center">I am a developer from Bangladesh</h4>
 <p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
@@ -18,10 +19,10 @@
 </a>
  or <br>
 - 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
-
+<br><br>
 <h3>⚡Fun fact About Me</h3>
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
-
+<br>
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
 
@@ -56,13 +57,13 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 <!--![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
 <a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 </p>
-
+<br>
 <h3>🌐 Live Projects</h3>
 
 | Project       | Description                     | URL                                   |
@@ -73,7 +74,7 @@
 | 🧪 XetLab    | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)  |
 | 🏖️ Xetout    | Travel Blog    (Wordpress)      | [Xetout](https://xetout.xetroot.com/)  |
 
-  
+<br>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
   <a hre="https://github.com/esteham">
@@ -84,7 +85,7 @@
   </a>
 </p>
 <br>
-
+<br>
 <h3>🌟Contribute</h3>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p>
 
