@@ -66,13 +66,13 @@
 <br>
 <h3>🌐 Live Projects</h3>
 
-| Project       | Description                     | URL                                   |
-|---------------|---------------------------------|---------------------------------------|
-| 💼 Portfolio | Portfolio Website               | [Esteham](https://xetroot.com/)        |
-| 🛒 Xet Shop  | Ecommerce system  (PHP & MySQL) | [XetShop](https://eshop.xetroot.com/)  |
+| Project       | Description                     | URL                                             |
+|---------------|---------------------------------|-------------------------------------------------|
+| 💼 Portfolio | Portfolio Website               | [Esteham](https://xetroot.com/)                  |
+| 🛒 Xet Shop  | Ecommerce system  (PHP & MySQL) | [E-commerce XetShop](https://eshop.xetroot.com/) |
 | ✈️ Aviation  | Flight application (PHP & MySQL)| [Aviation System](https://aviation.xetroot.com/) |
-| 🧪 XetLab    | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)  |
-| 🏖️ Xetout    | Travel Blog    (Wordpress)      | [Xetout](https://xetout.xetroot.com/)  |
+| 🧪 XetLab    | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)            |
+| 🏖️ Xetout    | Travel Blog    (Wordpress)      | [Xetout Blog](https://xetout.xetroot.com/)       |
 
 <br>
 <h3>📊 GitHub Stats</h3>
