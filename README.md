@@ -73,7 +73,7 @@
 | ✈️ Aviation    | Flight application (PHP & MySQL)| [Aviation System](https://aviation.xetroot.com/) |
 | 🧪 XetLab      | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)            |
 | 🏖️ Xetout      | Travel Blog    (Wordpress)      | [Xetout Blog](https://xetout.xetroot.com/)       |
-| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | [Xetout Blog](https://kamla.xetroot.com/)        |
+| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | [Local Service](https://kamla.xetroot.com/)      |
 
 <br>
 <h3>📊 GitHub Stats</h3>
