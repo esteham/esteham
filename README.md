@@ -1,6 +1,6 @@
 <h1 align="center">Esteham H. Zihad Ansari</h1>
 
-<a target="_blank" href="https://github.com/esteham"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
+<a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
 <br>
 <img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">
 
@@ -13,7 +13,7 @@
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
-- 🌐 Website <a href='https://xetroot.com/' target='_blank'>Xetroot</a><br>
+- 🌐 Website <a href='https://xetroot.com/' target="_blank">Xetroot</a><br>
 - 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
    [*Send Mail*] 
 </a>
@@ -68,17 +68,18 @@
 
 | Project         | Description                     | URL                                             |
 |-----------------|---------------------------------|-------------------------------------------------|
-| 💼 Portfolio   | Portfolio Website               | [Esteham](https://xetroot.com/)                  |
-| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | [E-commerce XetShop](https://eshop.xetroot.com/) |
-| ✈️ Aviation    | Flight application (PHP & MySQL)| [Aviation System](https://aviation.xetroot.com/) |
-| 🧪 XetLab      | Lab application  (Wordpress)    | [Xetlab](https://xetlab.xetroot.com/)            |
-| 🏖️ Xetout      | Travel Blog    (Wordpress)      | [Xetout Blog](https://xetout.xetroot.com/)       |
-| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | [Local Service](https://kamla.xetroot.com/)      |
+| 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
+| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
+| ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
+| 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
+| 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
+| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+
 
 <br>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <a hre="https://github.com/esteham">
+  <a hre="https://github.com/esteham" target="_blank">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
   </a>
    <a hre="https://github.com/esteham">
