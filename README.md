@@ -8,9 +8,9 @@
 </a>
 
 <h3 align="left"> About Me</h3>
-<br>
-<h4 align="center">I am a developer from Bangladesh</h4>
-<p> passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. With expertise in HTML, CSS, JavaScript, and popular frameworks like React and Node.js, he excels at creating responsive, user-friendly, and high-performing websites. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
+<!-- <br> 
+<h4 align="center">I am a developer from Bangladesh</h4> -->
+<p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
 - 🌱 I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/laravel-red?style=plastic&logo=laravel&logoColor=red&labelColor=white)
 </span>
@@ -20,12 +20,11 @@
 - 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
    [*Send Mail*] 
 </a>
- or <br>
 - 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
 <br><br>
-<h3>⚡Fun fact About Me</h3>
+<!--<h3>⚡Fun fact About Me</h3> 
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
-<br>
+<br> -->
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
 
@@ -93,5 +92,5 @@
 <br>
 <br>
 <h3>🌟Contribute</h3>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p>
 
