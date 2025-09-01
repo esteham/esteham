@@ -114,4 +114,4 @@
 
 
 ## 🖥️ Contribution Graph
-![Esteham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteham&theme=tokyo-night)
+![Esteham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteham&theme=tokyo-night&height=300)
