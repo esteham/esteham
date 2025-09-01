@@ -3,9 +3,12 @@
 <a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
 <br>
 <!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
-<a  href="https://github.com/esteham" >
-    <img align="right" width="430" height="300"  src="https://github-stats-alpha.vercel.app/api?username=esteham&cc=22272e&tc=37BCF6&ic=fff&bc=0000" alt="GitHub Stats">
+<a href="https://github.com/esteham">
+    <img align="right" width="430" height="300"  
+         src="https://github-stats-alpha.vercel.app/api?username=esteham&cc=000000&tc=ffffff&ic=ffffff&bc=000000" 
+         alt="GitHub Stats">
 </a>
+
 
 <h3 align="left"> About Me</h3>
 <!-- <br> 
@@ -71,25 +74,30 @@
 <br>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <a hre="https://github.com/esteham" target="_blank">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <a href="https://github.com/esteham" target="_blank">
+    <img align="center" height="180em" 
+         src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
   </a>
-   <a hre="https://github.com/esteham">
-    <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=material-palenight&count_private=true" />
+  <a href="https://github.com/esteham">
+    <img align="center" height="180em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=dark&count_private=true" />
   </a>
 </p>
+
 <!-- <br>
 <br>
 <h3>🌟Contribute</h3>
 <p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p> -->
 
 <div align="center">
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/Vaibhav2002/Vaibhav2002/blob/output/github-contribution-grid-snake.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esteham/esteham/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/esteham/esteham/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/esteham/esteham/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+
 
 
 <br>
