@@ -104,11 +104,11 @@
 <p align="center">
   <a href="https://github.com/esteham" target="_blank">
     <img align="center" height="180em" 
-         src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api?username=esteham&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/esteham">
     <img align="center" height="180em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=dark&count_private=true" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=esteham&layout=compact&langs_count=8&theme=dark&count_private=true&hide_border=true" />
   </a>
 </p>
 
