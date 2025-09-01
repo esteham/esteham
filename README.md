@@ -65,12 +65,40 @@
 ![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
 <br>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
 <a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
 </p>
 
+
+<!--Github Contribute chart-->
+<!--
+<br>
+<h3>🌟Contribute</h3>
+<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p> -->
+<br>
+
+
+
+<!--Personal Project-->
+<div align="center">
+  <h3>🌐 Live Projects</h3>
+
+  | Project         | Description                     | URL                                             |
+  |-----------------|---------------------------------|-------------------------------------------------|
+  | 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
+  | 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
+  | ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
+  | 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
+  | 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
+  | 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+
+</div>
+
+
+<!--Github Stars-->
 <br>
 <h3>📊 GitHub Stats</h3>
 <p align="center">
@@ -84,11 +112,8 @@
   </a>
 </p>
 
-<!-- <br>
-<br>
-<h3>🌟Contribute</h3>
-<p ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esteham&" alt="esteham" /></p> -->
 
+<!--Github snake-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esteham/esteham/output/dist/github-contribution-grid-snake-dark.svg" />
@@ -99,19 +124,6 @@
 
 
 
-
-<br>
-<h3>🌐 Live Projects</h3>
-
-| Project         | Description                     | URL                                             |
-|-----------------|---------------------------------|-------------------------------------------------|
-| 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
-| 🛒 Xet Shop    | Ecommerce system  (PHP & MySQL) | <a href="https://eshop.xetroot.com/" target="_blank" rel="noopener noreferrer">E-commerce XetShop</a> |
-| ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
-| 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
-| 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
-| 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
-
-
+<!--Github Congribute-->
 ## 🖥️ Contribution Graph
 ![Esteham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteham&theme=tokyo-night&height=300)
