@@ -15,19 +15,33 @@
 <h4 align="center">I am a developer from Bangladesh</h4> -->
 <p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- 🌱 I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/laravel-red?style=plastic&logo=laravel&logoColor=red&labelColor=white)
+- I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/laravel-red?style=plastic&logo=laravel&logoColor=red&labelColor=white)
 </span>
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
-- 🌐 Website <a href='https://xetroot.com/' target="_blank">Xetroot</a><br>
+- 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham" height="30" width="50" /></a>
+<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
+
+
+<!--</p>
 - 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
    [*Send Mail*] 
 </a>
 - 📄 Need something? Hit me up on <a href="https://www.linkedin.com/in/esteham/" target="_blank" rel="noopener noreferrer">[*LinkedIn*]</a>, where you can see my professional face.
-<br><br>
-<!--<h3>⚡Fun fact About Me</h3> 
+<br>
+<br>
+
+
+<h3>⚡Fun fact About Me</h3> 
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 <br> -->
+
+
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
 
@@ -64,14 +78,6 @@
 <!--![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
 <br>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham-h-zihad-ansari-b8a751199/" height="30" width="50" /></a>
-<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
-</p>
-
 
 <!--Github Contribute chart-->
 <!--
