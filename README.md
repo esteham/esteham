@@ -9,7 +9,6 @@
          alt="GitHub Stats">
 </a>
 
-
 <h3 align="left"> About Me</h3>
 <!-- <br> 
 <h4 align="center">I am a developer from Bangladesh</h4> -->
@@ -20,6 +19,7 @@
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
+
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,9 +38,9 @@
 
 <h3>⚡Fun fact About Me</h3> 
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
+<br> 
+<br> 
 <br> -->
-<br> 
-<br> 
 
 
 <h3 align="left">💻 My Tech Skills</h3>
