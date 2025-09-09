@@ -20,7 +20,6 @@
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
-<br> 
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
