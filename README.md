@@ -40,7 +40,8 @@
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 <br> 
 <br> 
-<br> -->
+ -->
+<br>
 
 
 <h3 align="left">💻 My Tech Skills</h3>
