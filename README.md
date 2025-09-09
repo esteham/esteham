@@ -120,7 +120,7 @@
   </a>
 </p>
 
-
+<!--
 Github snake
 <div align="center">
   <picture>
@@ -132,6 +132,6 @@ Github snake
 
 
 
-<!--Github Congribute-->
+<!--Github Congribute
 ## 🖥️ Contribution Graph
-![Esteham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteham&theme=tokyo-night&height=300&area=true&hide_border=true)
+![Esteham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=esteham&theme=tokyo-night&height=300&area=true&hide_border=true)-->
