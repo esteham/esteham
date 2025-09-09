@@ -22,10 +22,10 @@
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
 <br> 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham" height="30" width="50" /></a>
-<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a>
+<a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a> -->
 
 
 <!--</p>
