@@ -36,4 +36,4 @@ We do *not* support older versions earlier than two major releases back.
 ## Contact
 
 For private reports, email: **security@xetroot.com**  
-PGP key (optional): [your PGP public key or fingerprint here]
+PGP key fingerprint : [0F3D 6772 7618 0206 CE69 6A86 C726 5594 918F D78D]
