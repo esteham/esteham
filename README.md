@@ -104,7 +104,9 @@
   | ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
   | 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
   | 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
-  | 👷‍♂️ Kamlar Khoj  | Local Service   (REACT)        | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+  | 👷‍♂️ Kamlar Khoj | Local Service   (REACT)         | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+  | 🗺️ Easy Land   | Comprehensive Land Record (REACT, Laravel) | <a href="https://eland.xetroot.com/" target="_blank" rel="noopener noreferrer">Esay Land</a>|
+  
 
 </div>
 
