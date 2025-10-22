@@ -14,8 +14,8 @@
 <h4 align="center">I am a developer from Bangladesh</h4> -->
 <p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- I’m currently learning  <span style="top: 10px;">![Static Badge](https://img.shields.io/badge/vue.js-indego?style=plastic&logo=vue.js&logoColor=blue&labelColor=white)
-</span>
+- I’m currently learning  ![Static Badge](https://img.shields.io/badge/veu3-red?style=plastic&logo=vue.js&logoColor=blue)
+
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
@@ -55,7 +55,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Static Badge](https://img.shields.io/badge/jQuery-skyblue?style=for-the-badge&logo=jQuery)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Static Badge](https://img.shields.io/badge/vue.js-indego?style=for-the-badge&logo=vue.js&logoColor=blue&labelColor=white)
+![Static Badge](https://img.shields.io/badge/veu3-red?style=for-the-badge&logo=vue.js&logoColor=blue)
 
 
 <!--![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)-->
