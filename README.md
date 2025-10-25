@@ -15,8 +15,7 @@
 <h4 align="center">I am a developer from Bangladesh</h4> -->
 <p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
-- I’m currently learning  ![Static Badge](https://img.shields.io/badge/veu3-red?style=plastic&logo=vue.js&logoColor=blue)
-
+- I’m currently learning  ![Static Badge](https://img.shields.io/badge/Inertia.js-gray?style=plastic&logo=Inertia)
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
   
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
@@ -66,6 +65,7 @@
 ![Static Badge](https://img.shields.io/badge/php-%231974b5?style=for-the-badge&logo=php&logoColor=black&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=red&labelColor=white)
+![Static Badge](https://img.shields.io/badge/Inertia.js-gray?style=for-the-badge&logo=Inertia)
 
 <!--DevOps & Tools-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
