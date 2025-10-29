@@ -1,5 +1,6 @@
 <h1 align="center">Esteham H. Zihad Ansari</h1>
 
+
 <a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
 <br>
 <!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
@@ -8,6 +9,7 @@
        src="https://github-stats-alpha.vercel.app/api?username=esteham&cc=00000000&tc=1e40af&ic=1e40af&bc=00000000"
        alt="GitHub Stats">
 </a>
+
 
 <h3 align="left"> About Me</h3>
 <!-- <br> 
@@ -61,15 +63,18 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/wordpress-blue?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=gray)
 
+
 ![Static Badge](https://img.shields.io/badge/php-%231974b5?style=for-the-badge&logo=php&logoColor=black&logoSize=auto)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/laravel-red?style=for-the-badge&logo=laravel&logoColor=red&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Inertia.js-gray?style=for-the-badge&logo=Inertia)
 
+
 <!--DevOps & Tools-->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 
 <!--Tools & Utilities-->
 <!--![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)-->
@@ -94,7 +99,6 @@
 <!--Personal Project-->
 <h3>🌐 Live Projects</h3>
 <div align="center">
-
   | Project         | Description                     | URL                                             |
   |-----------------|---------------------------------|-------------------------------------------------|
   | 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
@@ -102,10 +106,8 @@
   | ✈️ Aviation    | Flight application (PHP & MySQL)| <a href="https://aviation.xetroot.com/" target="_blank" rel="noopener noreferrer">Aviation System</a> |
   | 🧪 XetLab      | Lab application  (Wordpress)    | <a href="https://xetlab.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetlab</a>            |
   | 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
-  | 👷‍♂️ Kamlar Khoj | Local Service   (REACT, PHP)         | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>      |
+  | 👷‍♂️ Kamlar Khoj | Local Service   (REACT, PHP)         | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>  |
   | 🗺️ Easy Land   | Comprehensive Land Record (REACT, Laravel) | <a href="https://eland.xetroot.com/" target="_blank" rel="noopener noreferrer">Esay Land</a>|
-  
-
 </div>
 
 
@@ -123,6 +125,7 @@
   </a>
 </p>
 
+
 <!--
 Github snake
 <div align="center">
@@ -132,7 +135,6 @@ Github snake
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/esteham/esteham/output/dist/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
 
 
 <!--Github Congribute
