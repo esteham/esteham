@@ -99,6 +99,7 @@
 <!--Personal Project-->
 <h3>🌐 Live Projects</h3>
 <div align="center">
+  
   | Project         | Description                     | URL                                             |
   |-----------------|---------------------------------|-------------------------------------------------|
   | 💼 Portfolio   | Portfolio Website               | <a href="https://xetroot.com/" target="_blank" rel="noopener noreferrer">Esteham</a>                  |
@@ -108,6 +109,7 @@
   | 🏖️ Xetout      | Travel Blog    (Wordpress)      | <a href="https://xetout.xetroot.com/" target="_blank" rel="noopener noreferrer">Xetout Blog</a>       |
   | 👷‍♂️ Kamlar Khoj | Local Service   (REACT, PHP)         | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>  |
   | 🗺️ Easy Land   | Comprehensive Land Record (REACT, Laravel) | <a href="https://eland.xetroot.com/" target="_blank" rel="noopener noreferrer">Esay Land</a>|
+  
 </div>
 
 
