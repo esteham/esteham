@@ -12,7 +12,7 @@
 <h3 align="left"> About Me</h3>
 <!-- <br> 
 <h4 align="center">I am a developer from Bangladesh</h4> -->
-<p>I am a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
+<p>I'm a passionate and skilled web developer with a deep understanding of both front-end and back-end technologies. My focus lies in building seamless digital experiences by integrating powerful APIs and ensuring scalability.</p>
 
 - I’m currently learning  ![Static Badge](https://img.shields.io/badge/Inertia.js-gray?style=plastic&logo=Inertia)
   <!--![Static Badge](https://img.shields.io/badge/php-black?style=flat&logo=php&logoColor=black&color=blue)-->
