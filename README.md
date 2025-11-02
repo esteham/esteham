@@ -78,13 +78,13 @@
 
 <!--Tools & Utilities-->
 <!--![cPanel](https://img.shields.io/badge/cPanel-FB6C2C?style=for-the-badge&logo=cpanel&logoColor=white)-->
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Static Badge](https://img.shields.io/badge/hPanel-blue?style=for-the-badge&logo=hostinger&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%20-000000?style=for-the-badge&logo=visualstudiocode&labelColor=2F2F2F&logoColor=FFFFFF)
+![hPanel](https://img.shields.io/badge/hPanel-%20-000000?style=for-the-badge&logo=hostinger&labelColor=2F2F2F&logoColor=FFFFFF)
+![Figma](https://img.shields.io/badge/Figma-%20-000000?style=for-the-badge&logo=figma&labelColor=2F2F2F&logoColor=FFFFFF)
+![ESLint](https://img.shields.io/badge/ESLint-%20-000000?style=for-the-badge&logo=eslint&labelColor=2F2F2F&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-%20-000000?style=for-the-badge&logo=postman&labelColor=2F2F2F&logoColor=FFFFFF)
+![Prettier](https://img.shields.io/badge/Prettier-%20-000000?style=for-the-badge&logo=prettier&labelColor=2F2F2F&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-%20-000000?style=for-the-badge&logo=canva&labelColor=2F2F2F&logoColor=FFFFFF)
 <!--![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 ![Thundercloud](https://img.shields.io/badge/Thundercloud-0080FF?style=for-the-badge&logo=cloudflare&logoColor=white)-->
 <br>
