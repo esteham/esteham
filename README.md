@@ -110,9 +110,9 @@
   | 👷‍♂️ Kamlar Khoj | Local Service   (REACT, PHP)         | <a href="https://kamla.xetroot.com/" target="_blank" rel="noopener noreferrer">Local Service</a>  |
   | 🗺️ Easy Land   | Comprehensive Land Record (REACT, Laravel) | <a href="https://eland.xetroot.com/" target="_blank" rel="noopener noreferrer">Esay Land</a>|
   | 🏨 Xet Hospital| Hospital Management (VUE 3, Laravel) | <a href="https://hospital.xetroot.com/" target="_blank" rel="noopener noreferrer">Xet Hospital</a> |
+  | 📚 Attendance  |Minu School Attendance (VUE 3, Laravel) | <a href="https://attendance-gold-one.vercel.app/" target="_blank" rel="noopener noreferrer">Attendance</a> |
   
 </div>
-
 
 <!--Github Stars-->
 <br>
