@@ -1,16 +1,15 @@
 <h1 align="center">Esteham H. Zihad Ansari</h1>
 
 <p align="right">
-
   <!-- Profile Views -->
   <a href="https://github.com/esteham" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+  
   <!-- Download CV Button -->
   <a href="https://raw.githubusercontent.com/esteham/esteham/main/Estehamul%20Hasan.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-CV-blue?style=flat" alt="Download CV" />
   </a>
-
 </p>
 
 <!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
@@ -19,7 +18,6 @@
        src="https://github-stats-alpha.vercel.app/api?username=esteham&cc=00000000&tc=1e40af&ic=1e40af&bc=00000000"
        alt="GitHub Stats">
 </a>
-
 
 <h3 align="left"> About Me</h3>
 <!-- <br> 
@@ -31,12 +29,10 @@
   
 - 🌐 Website <a href='https://xetroot.com/' target="_blank"> Xetroot</a>
 
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esteham" height="30" width="50" /></a>
 <a href="https://www.facebook.com/esteham" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/esteham" height="30" width="50" /></a> -->
-
 
 <!--</p>
 - 📫 How to reach me <a href="mailto:eshasan1287005@gmail.com?subject=Subject%20Here&body=Hello%20This%20is%20a%20test%20email." target="_blank">
@@ -46,14 +42,11 @@
 <br>
 <br>
 
-
 <h3>⚡Fun fact About Me</h3> 
 <p>I’m building a platform to help travelers find buddies because exploring the world alone is cool, but having someone to take your awkward tourist pics is even better.</p>
 <br> 
 <br> 
  -->
-<br>
-
 
 <h3 align="left">💻 My Tech Skills</h3>
 <p align="left"> 
