@@ -1,8 +1,18 @@
 <h1 align="center">Esteham H. Zihad Ansari</h1>
 
+<p align="right">
 
-<a  href="https://github.com/esteham" target="_blank"><img align="right" src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="esteham" />
-<br>
+  <!-- Profile Views -->
+  <a href="https://github.com/esteham" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=esteham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <!-- Download CV Button -->
+  <a href="https://raw.githubusercontent.com/esteham/esteham/main/Estehamul%20Hasan.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-CV-blue?style=flat" alt="Download CV" />
+  </a>
+
+</p>
+
 <!--<img align="right" width="300" height="180" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Description of the image">-->
 <a href="https://github.com/esteham">
   <img align="right" width="430" height="300"
